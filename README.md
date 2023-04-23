@@ -1,5 +1,5 @@
 # Check-Me-
-1)This is my initial portfolio website.
+1)This is my personal portfolio website.
 
 
 
