@@ -7,12 +7,10 @@ let header=document.querySelector('header');
 
 
 magic.onclick=()=>{
-    bd.classList.toggle('maagic');
-    para.classList.toggle('maagicc');
+    bd.classList.toggle('maagic');
 }
 window.onscroll=()=>{
-    bd.classList.remove('maagic');
-    para.classList.remove('maagicc');
+    bd.classList.remove('maagic');
 }
 
 menu.onclick = () => {
